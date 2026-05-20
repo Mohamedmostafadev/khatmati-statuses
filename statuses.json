@@ -1,1 +1,34 @@
-
+[
+  {
+    "id": "duaa-001",
+    "title": "دعاء اليوم",
+    "description": "حالة نصية من ختمتي",
+    "category": "duaa",
+    "category_name": "أدعية",
+    "type": "text",
+    "text_content": "اللهم اجعل القرآن ربيع قلوبنا ونور صدورنا وجلاء أحزاننا وذهاب همومنا.",
+    "background_color": "#0F5E4B",
+    "text_color": "#FFFFFF",
+    "template_name": "duaa",
+    "is_featured": true,
+    "share_count": 0,
+    "view_count": 0,
+    "published_at": "2026-05-20T00:00:00Z"
+  },
+  {
+    "id": "ayah-001",
+    "title": "آية اليوم",
+    "description": "حالة قرآنية من ختمتي",
+    "category": "ayah",
+    "category_name": "آيات",
+    "type": "text",
+    "text_content": "﴿فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا﴾",
+    "background_color": "#073E32",
+    "text_color": "#FFFFFF",
+    "template_name": "ayah",
+    "is_featured": true,
+    "share_count": 0,
+    "view_count": 0,
+    "published_at": "2026-05-20T00:00:00Z"
+  }
+]
